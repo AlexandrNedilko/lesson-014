@@ -30,7 +30,7 @@ public class Main {
                     System.out.println("5: view clients");
                     System.out.println("6: view salary");
                     System.out.println("7: view range salary");
-                    System.out.print("--> ");
+                    System.out.print("-> ");
 
                     String s = sc.nextLine();
 
